@@ -22,6 +22,7 @@ public class MyStack<T> {
 
     private LinkedList<T> list = new LinkedList<T>();
     // I had modified this for learning git.
+    // i have learned that how to use git.
 
     public void push(T e) {
         this.list.add(e);
