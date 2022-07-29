@@ -6,7 +6,7 @@ public class Hello{
 		// printHelloWorld(); 
 	}
     
-	
+	// Please ignore.
 	// Function printHelloWorld()
 	public static void printHelloWorld() {
 		System.out.println("Hello World!");
