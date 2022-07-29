@@ -1,6 +1,7 @@
-public class ReturnFunction {
+commandpublic class ReturnFunction {
 	// Changed to check the git versioning system.
-	// to check vim editor
+	// to check vim editor.
+	// TO check difference in git.
 
 	public static void main(String[] args) {
 		int var = test(); // Store function return in this variable
